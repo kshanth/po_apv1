@@ -1,0 +1,50 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "http://musgwsnd.pdo.shell.om:8088/sap/opu/odata/sap/ZPO_RELEASE_SRV/PurchaseOrderSet('4500840756')",
+                    "uri": "http://musgwsnd.pdo.shell.om:8088/sap/opu/odata/sap/ZPO_RELEASE_SRV/PurchaseOrderSet('4500840756')",
+                    "type": "ZPO_RELEASE_SRV.PurchaseOrder"
+                },
+                "PoNumber": "4500840756",
+                "CoCode": "OM01",
+                "DocCat": "F",
+                "DocType": "NB",
+                "Status": "B",
+                "CreatedOn": "\/Date(1575158400000)\/",
+                "CreatedBy": "BATCH_JOB",
+                "Vendor": "100031",
+                "PurchOrg": "OM01",
+                "PurGroup": "1IS",
+                "LineItem": {
+                    "__deferred": {
+                        "uri": "http://musgwsnd.pdo.shell.om:8088/sap/opu/odata/sap/ZPO_RELEASE_SRV/PurchaseOrderSet('4500840756')/LineItem"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://musgwsnd.pdo.shell.om:8088/sap/opu/odata/sap/ZPO_RELEASE_SRV/PurchaseOrderSet('4500844330')",
+                    "uri": "http://musgwsnd.pdo.shell.om:8088/sap/opu/odata/sap/ZPO_RELEASE_SRV/PurchaseOrderSet('4500844330')",
+                    "type": "ZPO_RELEASE_SRV.PurchaseOrder"
+                },
+                "PoNumber": "4500844330",
+                "CoCode": "OM01",
+                "DocCat": "F",
+                "DocType": "NB",
+                "Status": "9",
+                "CreatedOn": "\/Date(1577836800000)\/",
+                "CreatedBy": "MU53986",
+                "Vendor": "100208",
+                "PurchOrg": "OM01",
+                "PurGroup": "1E3",
+                "LineItem": {
+                    "__deferred": {
+                        "uri": "http://musgwsnd.pdo.shell.om:8088/sap/opu/odata/sap/ZPO_RELEASE_SRV/PurchaseOrderSet('4500844330')/LineItem"
+                    }
+                }
+            }
+        ]
+    }
+}

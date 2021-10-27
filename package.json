@@ -17,9 +17,9 @@
 		"build": "ui5 build -a --clean-dest --include-task=generateManifestBundle generateCachebusterInfo",
 		"deploy": "fiori verify",
 		"deploy-config": "fiori add deploy-config",
-        "unit-tests": "fiori run --open test/unit/unitTests.qunit.html",
-        "start-mock": "fiori run --open test/mockServer.html",
-		"int-tests": "fiori run --open test/integration/opaTests.qunit.html"
+		"unit-tests": "fiori run --open test/unit/unitTests.qunit.html",
+        "int-tests": "fiori run --open test/integration/opaTests.qunit.html",
+        "start-mock": "fiori run --open 'test/mockServer.html#northwindlr-tile'"
 	},
 	"devDependencies": {
 		"@ui5/cli": "^2.11.1",

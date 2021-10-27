@@ -21,9 +21,9 @@
       "console": "internalConsole",
       "internalConsoleOptions": "openOnSessionStart",
       "env": {
-        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/prpo_rel\"}",
         "FIORI_TOOLS_UI5_VERSION": "",
-        "FIORI_TOOLS_UI5_URI": "https://ui5.sap.com"
+        "FIORI_TOOLS_UI5_URI": "https://ui5.sap.com",
+        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/prpo_rel\"}"
       }
     },
     {
@@ -43,10 +43,9 @@
       "internalConsoleOptions": "neverOpen",
       "port": 9229,
       "env": {
-        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/prpo_rel\"}",
         "FIORI_TOOLS_UI5_VERSION": "",
         "FIORI_TOOLS_UI5_URI": "https://ui5.sap.com",
-        "FIORI_TOOLS_BACKEND_CONFIG": "[{\"path\":\"/sap\",\"url\":\"https://services.odata.org/v2/Northwind/Northwind.svc/\"}]"
+        "run.config": "{\"handlerId\":\"fiori_tools\",\"runnableId\":\"/home/user/projects/prpo_rel\"}"
       },
       "args": [
         "--open",

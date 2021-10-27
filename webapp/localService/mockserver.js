@@ -7,7 +7,7 @@ sap.ui.define([
     "use strict";
 
     var oMockServer,
-        _sAppPath = "com.shell.popr.prporel/",
+        _sAppPath = "com/shell/popr/prporel/",
         _sJsonFilesPath = _sAppPath + "localService/mockdata";
 
     var oMockServerInterface = {

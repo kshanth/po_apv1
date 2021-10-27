@@ -19,7 +19,7 @@
 		"deploy-config": "fiori add deploy-config",
 		"unit-tests": "fiori run --open test/unit/unitTests.qunit.html",
         "int-tests": "fiori run --open test/integration/opaTests.qunit.html",
-        "start-mock": "fiori run --open 'test/mockServer.html#northwindlr-tile'"
+        "start-mock": "fiori run --open 'test/mockServer.html#PRPOReleaseApplication-display'"
 	},
 	"devDependencies": {
 		"@ui5/cli": "^2.11.1",
